@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@tsed/cli": "^2.1.3"
+  }
+}
